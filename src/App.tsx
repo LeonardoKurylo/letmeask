@@ -1,10 +1,8 @@
-import { Button } from './Components/Button'
+import { Home } from './pages/Home'
 
 function App() {
   return (
-    <div>
-      <Button />
-    </div>
+    <Home />
   );
 }
 
